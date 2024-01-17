@@ -14,7 +14,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🔗 Link To Hello Rails Front-End ](#-link-to-hello-rails-front-end-)
+  - [🔗 Link To Hello React Front-End ](#-link-to-hello-react-front-end-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -62,9 +62,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
-## 🔗 Link To Hello Rails Front-End <a name="link-to-hello-rails-front-end"></a>
+## 🔗 Link To Hello React Front-End <a name="link-to-hello-react-front-end"></a>
 
-Here is the link to the [Hello Rails Front-End](https://github.com/AlselwiAisha/hello-react-front-end/pull/1)repository.
+Here is the link to the [Hello React Front-End](https://github.com/AlselwiAisha/hello-react-front-end/pull/1)repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
