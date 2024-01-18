@@ -64,7 +64,7 @@
 <!-- GETTING STARTED -->
 ## 🔗 Link To Hello React Front-End <a name="link-to-hello-react-front-end"></a>
 
-Here is the link to the [Hello React Front-End](https://github.com/AlselwiAisha/hello-react-front-end/pull/1)repository.
+Here is the link to the [Hello React Front-End](https://github.com/AlselwiAisha/hello-react-front-end/)repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
